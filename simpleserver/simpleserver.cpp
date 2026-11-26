@@ -8,7 +8,7 @@
 
 int main() {
 /*
-create a socker
+create a socket
 attach socket to a port 
 listen for incoming connections
 accept incoming connections
